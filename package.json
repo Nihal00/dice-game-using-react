@@ -38,5 +38,8 @@
   },
   "resolutions": {
     "styled-components": "^5"
+  },
+  "devDependencies": {
+    "babel-preset-react-app": "^10.0.1"
   }
 }
